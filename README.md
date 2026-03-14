@@ -26,7 +26,7 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
-The games purpose is to create a random number and give a certain number of attempts to the user who will try to get the correct number.
+The games purpose is to create a random number and give a certain number of attempts to the user who will try to get the correct number. The user could pick various difficulties with the number of tries and the number range changing according to the difficulty.
 - [ ] Detail which bugs you found.
 The secret number changes with every user interaction, the hints gave the wrong information, and with every even guess, the secret number was converted into a string.
 - [ ] Explain what fixes you applied.
